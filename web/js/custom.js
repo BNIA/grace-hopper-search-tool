@@ -1,12 +1,16 @@
+var csa_map = [];
+
 var updateCSA = function(list) {
   $('#csa').removeClass('waiting');
-  var newDOM = "";
-  for (var i = 0; i < list.length; i++) {
-    var obj = list[i];
-    newDOM += "<p>" + obj.name + "</p>";
-  }
-  // $('#csa').append(newDOM);
-  console.log(newDOM);
+  $('#csa-image-map area').each(function(idx, area){
+      $(area).bind('click', function(e) {
+        var csa_number = document.location.href.match(/#\d*/);
+        csa_number = csa_number[0].substring(1);
+        e.currentTarget.style.backgroundColor = "#FFFF00";
+        e.currentTarget.style.color = "#FFFF00";
+        $("#neighborhood").html("<h5>"+list[csa_number].name+"</h5>");
+    });
+  });
 };
 
 

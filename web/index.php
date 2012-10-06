@@ -17,8 +17,6 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="d3/d3.v2.js"></script>
-    <script src="js/map.js"></script>
   </head>
 
   <body>
@@ -133,8 +131,6 @@
         </div><!--/span-->
         <div class="span8">
           <div class="query-results">
-            <script src="js/detail-line.js"></script>
-
           </div>
 
         </div><!--/span-->
@@ -152,6 +148,9 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="d3/d3.v2.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/detail-line.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-ui-slider.min.js"></script>
     <script src="js/custom.js"></script>
