@@ -1,0 +1,1 @@
+This is the layer that translates an API request into a SQL query, and then returns those results as a json object. See sample.json for the requested format.

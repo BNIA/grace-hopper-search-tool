@@ -1,0 +1,376 @@
+{
+  "Housing and Community Development": [
+    {
+      "name": "Perc. of Residential Properties that Undergo Rehabilitation Investment > $5,000",
+      "key": "resrehab"
+    },
+    {
+      "name": "Percent of Residential Properties that are Vacant and Abandoned",
+      "key": "vacant"
+    },
+    {
+      "name": "Percent of Residential Properties with Housing Violations",
+      "key": "vio"
+    },
+    {
+      "name": "Median Sales Price",
+      "key": "salepr"
+    },
+    {
+      "name": "Total Housing Units Sold",
+      "key": "salesnum"
+    },
+    {
+      "name": "Median Number of Days on the Market",
+      "key": "salesdom"
+    },
+    {
+      "name": "Percent of Housing Units that are Owner-Occupied",
+      "key": "ownerocc"
+    },
+    {
+      "name": "Rate of Rental Evictions",
+      "key": "evic"
+    },
+    {
+      "name": "Percent of Properties Receiving Mortgage Foreclosure Filings",
+      "key": "fore"
+    },
+    {
+      "name": "Total Number of Residential Properties",
+      "key": "totalres"
+    }
+  ],
+  "Children and Family Health and Well-Being": [
+    {
+      "name": "Percent of Births Delivered at Term",
+      "key": "termbir"
+    },
+    {
+      "name": "Percent of Babies Born with a Satisfactory Birth Weight",
+      "key": "birthwt"
+    },
+    {
+      "name": "Percent of Births where Mothers Received Prenatal Care",
+      "key": "prenatal"
+    },
+    {
+      "name": "Teen Birth Rate",
+      "key": "teenbir"
+    },
+    {
+      "name": "Number of Children Tested for Presence of Lead in their Blood",
+      "key": "leadtest"
+    }
+  ],
+  "Crime and Safety": [
+    {
+      "name": "Domestic Violence Calls for Service",
+      "key": "domvio"
+    },
+    {
+      "name": "Part 1 Crime Rate",
+      "key": "crime"
+    },
+    {
+      "name": "Violent Crime Rate",
+      "key": "viol"
+    },
+    {
+      "name": "Juvenile Arrests",
+      "key": "juvarr"
+    },
+    {
+      "name": "Juvenile Arrests for Violent Offenses",
+      "key": "juvviol"
+    },
+    {
+      "name": "Juvenile Arrests for Drug Offenses",
+      "key": "juvdrug"
+    },
+    {
+      "name": "Juvenile Arrests of Prior Offenders",
+      "key": "juvprior"
+    }
+  ],
+  "Workforce and Economic Development": [
+    {
+      "name": "Total Number of Businesses",
+      "key": "numbus"
+    },
+    {
+      "name": "Total Number of Businesses Four Years Old or More",
+      "key": "succbus"
+    },
+    {
+      "name": "Total Number of Employees",
+      "key": "totemp"
+    },
+    {
+      "name": "Number of Businesses with Fewer than 50 Employees",
+      "key": "smallbus"
+    },
+    {
+      "name": "Perc. of Commercial Properties that Undergo Rehabilitation Investment > $5,000",
+      "key": "comrehab"
+    },
+    {
+      "name": "Percent of the Population 16-64 that is Employed",
+      "key": "empl"
+    },
+    {
+      "name": "Percent of the Population 16-64 that is Unemployed",
+      "key": "unempl"
+    },
+    {
+      "name": "Percent of the Population 16-64 Not in the Labor Force",
+      "key": "nilf"
+    },
+    {
+      "name": "Unemployment Rate",
+      "key": "unempr"
+    }
+  ],
+  "Sanitation": [
+    {
+      "name": "Rate of Dirty Streets and Alleys",
+      "key": "dirtyst"
+    },
+    {
+      "name": "Rate of Clogged Storm Drains",
+      "key": "drains"
+    },
+    {
+      "name": "Rate of Rat Incidences",
+      "key": "rats"
+    },
+    {
+      "name": "Rate of Abandoned Vehicles",
+      "key": "abv"
+    }
+  ],
+  "Urban Environment and Transportation": [
+    {
+      "name": "Tree Canopy",
+      "key": "canopy01"
+    },
+    {
+      "name": "Travel Time to Work (0-14 Minutes)",
+      "key": "trav14m"
+    },
+    {
+      "name": "Travel Time to Work (15-29 Minutes)",
+      "key": "trav29m"
+    },
+    {
+      "name": "Travel Time to Work (30-44 Minutes)",
+      "key": "trav44m"
+    },
+    {
+      "name": "Travel Time to Work (45+ Minutes)",
+      "key": "trav45m"
+    },
+    {
+      "name": "Percent of Population Using Modes Other than a Car to get to Work",
+      "key": "nocar"
+    },
+    {
+      "name": "Percent of Population Using Public Transportation to get to Work",
+      "key": "transit"
+    },
+    {
+      "name": "Percent of Population Using Other Modes to get to Work",
+      "key": "otherm"
+    }
+  ],
+  "Education and Youth": [
+    {
+      "name": "Number of Students Enrolled in Elementary School",
+      "key": "eenr"
+    },
+    {
+      "name": "Number of Students Enrolled in Middle School",
+      "key": "menr"
+    },
+    {
+      "name": "Number of Students Enrolled in High School",
+      "key": "henr"
+    },
+    {
+      "name": "Percent of Elementary School Students that are Chronically Absent",
+      "key": "caelem"
+    },
+    {
+      "name": "Percent of Elementary School Students that are Chronically Absent",
+      "key": "camid"
+    },
+    {
+      "name": "Percent of Elementary School Students that are Chronically Absent",
+      "key": "fcaehigh"
+    },
+    {
+      "name": "Percent of Students Suspended or Expelled During School Year",
+      "key": "susp"
+    },
+    {
+      "name": "Percent of Students that Withdraw from School Before Completion",
+      "key": "drop"
+    },
+    {
+      "name": "Percent of Students that Receive a Diploma or Certificate of Completion",
+      "key": "compl"
+    },
+    {
+      "name": "Percent of Students Receiving Free or Reduced Price Meals",
+      "key": "farms"
+    },
+    {
+      "name": "Percent of the Population Aged 18-25 Registered to Vote",
+      "key": "yvotereg"
+    },
+    {
+      "name": "Percent of the Population Aged 18-25 that Voted in General Election",
+      "key": "yvoted"
+    },
+    {
+      "name": "Percent of the Population Aged 16-19 in School and Employed",
+      "key": "yemp"
+    }
+  ],
+  "Neighborhood Action and Sense of Community": [
+    {
+      "name": "Number of Neighborhood Associations and Block Clubs",
+      "key": "assoc"
+    },
+    {
+      "name": "Number of Community Development Corporations",
+      "key": "cdcs"
+    },
+    {
+      "name": "Number of Umbrella Organizations",
+      "key": "umbrella"
+    },
+    {
+      "name": "Number of Park and Environmental Stewardship Groups",
+      "key": "parkgrps"
+    },
+    {
+      "name": "Number of Community Gardens",
+      "key": "gardens"
+    },
+    {
+      "name": "Number of Designated Local Historical Buildings (CHAP)",
+      "key": "chap"
+    },
+    {
+      "name": "Percent of the Population 18+ Registered to Vote",
+      "key": "regvote"
+    },
+    {
+      "name": "Percent of the Population 18+ that Voted in General Elections",
+      "key": "voted"
+    }
+  ],
+  "Census Demographics": [
+    {
+      "name": "Total Population",
+      "key": "totalpop"
+    },
+    {
+      "name": "Total Male Population",
+      "key": "male"
+    },
+    {
+      "name": "Total Female Population",
+      "key": "female"
+    },
+    {
+      "name": "Percent of the Population that is Black/African-American",
+      "key": "peraa"
+    },
+    {
+      "name": "Percent of the Population that is White/Caucasian",
+      "key": "perwhite"
+    },
+    {
+      "name": "Percent of the Population that is Alaskan/Native American",
+      "key": "perna"
+    },
+    {
+      "name": "Percent of the Population that is Asian",
+      "key": "perasi"
+    },
+    {
+      "name": "Percent of the Population that is Hawaiian/Pacific Islander",
+      "key": "perpac"
+    },
+    {
+      "name": "Percent of the Population that is Two or More Races",
+      "key": "per2more"
+    },
+    {
+      "name": "Percent of the Population that of an ÔOtherÕ Race",
+      "key": "perother"
+    },
+    {
+      "name": "Percent of the Population that is Hispanic",
+      "key": "perhisp"
+    },
+    {
+      "name": "Percent of the Population Aged 0-17",
+      "key": "age18"
+    },
+    {
+      "name": "Percent of the Population Aged 18-24",
+      "key": "age24"
+    },
+    {
+      "name": "Percent of the Population Aged 25-44",
+      "key": "age44"
+    },
+    {
+      "name": "Percent of the Population Aged 45-64",
+      "key": "age64"
+    },
+    {
+      "name": "Percent of the Population Aged 65+",
+      "key": "age65"
+    },
+    {
+      "name": "Total Number of Households",
+      "key": "hhs"
+    },
+    {
+      "name": "Families with Related Children Under 18",
+      "key": "fam"
+    },
+    {
+      "name": "Average Household Size",
+      "key": "hhsize"
+    },
+    {
+      "name": "Percent of Households Earning Less than $25,000 a Year",
+      "key": "hh25inc"
+    },
+    {
+      "name": "Percent of Households Earning Between $25,000 and $39,999 a Year",
+      "key": "hh40inc"
+    },
+    {
+      "name": "Percent of Households Earning Between $40,000 and $60,000 a Year",
+      "key": "hh60inc"
+    },
+    {
+      "name": "Percent of Households Earning Between $60,000 and $75,000 a Year",
+      "key": "hh75inc"
+    },
+    {
+      "name": "Percent of Households Earning Over $75,000",
+      "key": "hhmore75"
+    },
+    {
+      "name": "Median Household Income",
+      "key": "mhhi"
+    }
+  ]
+}
