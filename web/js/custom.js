@@ -4,11 +4,12 @@ var updateCSA = function(list) {
   $('#csa').removeClass('waiting');
   $('#csa-image-map area').each(function(idx, area){
       $(area).bind('click', function(e) {
-        var csa_number = document.location.href.match(/#\d*/);
+        var csa_number = $(this).attr("href").match(/#\d*/);
         csa_number = csa_number[0].substring(1);
         e.currentTarget.style.backgroundColor = "#FFFF00";
         e.currentTarget.style.color = "#FFFF00";
         $("#neighborhood").html("<h5>"+list[csa_number].name+"</h5>");
+        return false;
     });
   });
 };
