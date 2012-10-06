@@ -37,5 +37,6 @@ body {
 <script src="d3/d3.v2.js"></script>
 <!-- CODE TO RENDER THE DETAILED GRAPH GOES BELOW -->
 <script src="detail-line.js"></script>
+<script src="neighborhoods.js"></script>
 </body>
 </html>
