@@ -34,12 +34,7 @@ body {
 
 </style>
 <body>
-<script src="d3/d3.v2.js"></script>
-<!-- CODE TO RENDER THE DETAILED GRAPH GOES BELOW -->
-<script src="detail-line.js"></script>
-<script src="neighborhoods.js"></script>
-
-<div id="csa-selection-map-window" style="display: block;">
+<div id="csa-selection-map-window" style="display: inline;">
 	<p style="text-align: right; margin-right: 15px;"><a href="#" style="color: #333; font-size: 11px; font-style: italic;">close</a></p>
 
 	<img src="standardMap.large.png" usemap="#Map" width="420" border="0" height="544"> 
@@ -102,6 +97,11 @@ body {
 	</map>
 
 </div>
+<script src="d3/d3.v2.js"></script>
+<!-- CODE TO RENDER THE DETAILED GRAPH GOES BELOW -->
+<script src="neighborhoods.js"></script>
+<script src="detail-line.js"></script>
+
 
 </body>
 </html>
