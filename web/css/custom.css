@@ -15,3 +15,51 @@ body {
   border: 1px dashed #666;
   min-height: 500px;
 }
+
+.waiting {
+  background-image: url('../img/waiting.gif');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  min-height: 30px;
+}
+
+#communities,
+#indicators {
+  padding: 5px;
+}
+
+a.group {
+  font-weight: bold;
+  display: block;
+  margin-top: 10px;
+}
+
+a.group.selected,
+a.group.selected:hover {
+  color: black;
+  text-decoration: none;
+}
+
+#indicators li label span {
+  font-size: smaller;
+  margin: 4px;
+}
+
+#indicators li label input {
+  float: left;
+  display: block;
+  padding: 4px;
+}
+
+#range .labels span,
+#range .labels div {
+  color: #999;
+}
+#range .labels .value {
+  text-align: center;
+}
+
+#range .labels {
+  margin-top: 10px;
+  text-align: center;
+}

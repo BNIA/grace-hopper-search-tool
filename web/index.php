@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Bootstrap, from Twitter</title>
+    <title>BNIA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -10,7 +10,8 @@
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
-    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/jquery-ui-slider.css" rel="stylesheet" />
+    <!-- <link href="css/bootstrap-responsive.css" rel="stylesheet"> -->
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -48,15 +49,23 @@
         <div class="span3">
           <div class="well">
             <h4 class="no-top">Select Communities:</h4>
-            (map)
+            <div id="csa" class="waiting"></div>
           </div>
           <div class="well">
             <h4 class="no-top">I want to view:</h4>
-            (choose indicators)
+              <div id="indicators" class="waiting"></div>
           </div>
           <div class="well">
             <h4 class="no-top">In the date range:</h4>
-            (date picker)
+            <div id="range" class="waiting">
+              <div class="slider"></div>
+              <div class="labels clearfix">
+                <span class="min pull-left"></span>
+                <span class="max pull-right"></span>
+                <div class="value"></div>
+              </div>
+            </div>
+
           </div>
         </div><!--/span-->
         <div class="span9">
@@ -78,7 +87,9 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="http://code.jquery.com/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-ui-slider.min.js"></script>
+    <script src="js/custom.js"></script>
   </body>
 </html>
