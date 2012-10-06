@@ -1,0 +1,559 @@
+[
+  {
+    "name": "Allendale/Irvington/South Hilton",
+    "neighborhoods": [
+      "Allendale",
+      "Carroll-South Hilton",
+      "Gwynns Falls",
+      "Irvington",
+      "Saint Josephs",
+      "Uplands",
+      "Yale Heights",
+      "Lower Edmondson Village"
+    ]
+  },
+  {
+    "name": "Beechfield/Ten Hills/West Hills",
+    "neighborhoods": [
+      "Beechfield",
+      "Hunting Ridge",
+      "Ten Hills",
+      "Tremont",
+      "West Hills",
+      "Westgate"
+    ]
+  },
+  {
+    "name": "Belair-Edison",
+    "neighborhoods": [
+      "Belair-Edison",
+      "Clifton Park",
+      "Four By Four",
+      "Mayfield",
+      "Herring Run Park"
+    ]
+  },
+  {
+    "name": "Brooklyn/Curtis Bay/Hawkins Point",
+    "neighborhoods": [
+      "Brooklyn",
+      "Curtis Bay",
+      "Fairfield Area",
+      "Hawkins Point",
+      "Curtis Bay Industrial Area"
+    ]
+  },
+  {
+    "name": "Canton",
+    "neighborhoods": [
+      "Canton",
+      "Patterson Park"
+    ]
+  },
+  {
+    "name": "Cedonia/Frankford",
+    "neighborhoods": [
+      "Cedonia",
+      "Frankford",
+      "Cedmont",
+      "Parkside"
+    ]
+  },
+  {
+    "name": "Cherry Hill",
+    "neighborhoods": [
+      "Cherry Hill",
+      "Middle Branch/Reedbird Parks"
+    ]
+  },
+  {
+    "name": "Chinquapin Park/Belvedere",
+    "neighborhoods": [
+      "Cameron Village",
+      "Chinquapin Park",
+      "Lake Walker",
+      "Mid-Govans",
+      "Belvedere",
+      "Evesham Park"
+    ]
+  },
+  {
+    "name": "Claremont/Armistead",
+    "neighborhoods": [
+      "Armistead Gardens",
+      "Claremont-Freedom (now Orchard Ridge)",
+      "Orchard Ridge"
+    ]
+  },
+  {
+    "name": "Clifton-Berea",
+    "neighborhoods": [
+      "Berea",
+      "Biddle Street",
+      "Broadway East",
+      "Darley Park",
+      "South Clifton Park"
+    ]
+  },
+  {
+    "name": "Cross-Country/Cheswolde",
+    "neighborhoods": [
+      "Cheswolde",
+      "Cross Country"
+    ]
+  },
+  {
+    "name": "Dickeyville/Franklintown",
+    "neighborhoods": [
+      "Dickeyville",
+      "Franklintown",
+      "Purnell",
+      "Wakefield"
+    ]
+  },
+  {
+    "name": "Dorchester/Ashburton",
+    "neighborhoods": [
+      "Ashburton",
+      "Callaway-Garrison",
+      "Central Forest Park",
+      "Dolfield",
+      "Dorchester",
+      "East Arlington"
+    ]
+  },
+  {
+    "name": "Downtown/Seton Hill",
+    "neighborhoods": [
+      "Downtown",
+      "Seton Hill",
+      "University of Maryland"
+    ]
+  },
+  {
+    "name": "Edmondson Village",
+    "neighborhoods": [
+      "Edmondson Village",
+      "Rognel Heights",
+      "Gwynns Falls/Leakin Park",
+      "Edgewood"
+    ]
+  },
+  {
+    "name": "Fells Point",
+    "neighborhoods": [
+      "Butcher's Hill",
+      "Fells Point",
+      "Upper Fells Point"
+    ]
+  },
+  {
+    "name": "Forest Park/Walbrook",
+    "neighborhoods": [
+      "Concerned Citizens Of Forest Park",
+      "Fairmont",
+      "Forest Park",
+      "Garwyn Oaks",
+      "Mount Holly",
+      "West Forest Park",
+      "Windsor Hills"
+    ]
+  },
+  {
+    "name": "Glen-Falstaff",
+    "neighborhoods": [
+      "Fallstaff",
+      "Glen",
+      "Reisterstown Station",
+      "Woodmere"
+    ]
+  },
+  {
+    "name": "Greater Charles Village/Barclay",
+    "neighborhoods": [
+      "Abell",
+      "Barclay",
+      "Charles Village",
+      "Harwood",
+      "Oakenshawe",
+      "Johns Hopkins Homewood",
+      "Old Goucher"
+    ]
+  },
+  {
+    "name": "Greater Govans",
+    "neighborhoods": [
+      "Kenilworth Park",
+      "Pen Lucy",
+      "Richnor Springs",
+      "Wilson Park",
+      "Winston-Govans",
+      "Woodbourne-McCabe",
+      "Wrenlane"
+    ]
+  },
+  {
+    "name": "Greater Mondawmin",
+    "neighborhoods": [
+      "Burleith-Leighton",
+      "Hanlon-Longwood",
+      "Liberty Square",
+      "Mondawmin",
+      "Panway/Braddish Avenue",
+      "Walbrook"
+    ]
+  },
+  {
+    "name": "Greater Roland Park/Poplar Hill",
+    "neighborhoods": [
+      "Cross Keys",
+      "Evergreen",
+      "Keswick",
+      "North Roland Park/Poplar Hill",
+      "Roland Park",
+      "Wyndhurst"
+    ]
+  },
+  {
+    "name": "Greater Rosemont",
+    "neighborhoods": [
+      "Bridgeview/Greenlawn",
+      "Coppin Heights/Ash-Co-East",
+      "Evergreen Lawn",
+      "Franklintown Road",
+      "Mosher",
+      "Northwest Community Action",
+      "Rosemont",
+      "Winchester",
+      "Rosemont Homewoners/Tenants"
+    ]
+  },
+  {
+    "name": "Greenmount East",
+    "neighborhoods": [
+      "Greenmount Cemetery",
+      "Johnston Square",
+      "Oliver"
+    ]
+  },
+  {
+    "name": "Hamilton",
+    "neighborhoods": [
+      "Rosemont East",
+      "Westfield",
+      "Glenham-Belford"
+    ]
+  },
+  {
+    "name": "Harbor East/Little Italy",
+    "neighborhoods": [
+      "Washington Hill",
+      "Jonestown",
+      "Little Italy",
+      "Perkins Homes"
+    ]
+  },
+  {
+    "name": "Harford/Echodale",
+    "neighborhoods": [
+      "Christopher (now Harford-Echodale/Perring Parkway)",
+      "Harford-Echodale/Perring Parkway",
+      "North Harford Road",
+      "Overlea",
+      "Taylor Heights",
+      "Woodring (now North Harford Road)"
+    ]
+  },
+  {
+    "name": "Highlandtown",
+    "neighborhoods": [
+      "Brewers Hill",
+      "Highlandtown"
+    ]
+  },
+  {
+    "name": "Howard Park/West Arlington",
+    "neighborhoods": [
+      "Forest Park Golf Course",
+      "Grove Park",
+      "Howard Park",
+      "West Arlington",
+      "Seton Business Park"
+    ]
+  },
+  {
+    "name": "Inner Harbor/Federal Hill",
+    "neighborhoods": [
+      "Federal Hill",
+      "Inner Harbor",
+      "Otterbein",
+      "Ridgely's Delight",
+      "Riverside",
+      "Sharp-Leadenhall",
+      "Stadium Area",
+      "Downtown West",
+      "SBIC (now South Baltimore)",
+      "South Baltimore"
+    ]
+  },
+  {
+    "name": "Lauraville",
+    "neighborhoods": [
+      "Arcadia",
+      "Belair-Parkside",
+      "Beverly Hills",
+      "Lauraville",
+      "Moravia-Walther",
+      "Morgan Park",
+      "Waltherson",
+      "Wilson Heights (now Moravia-Walther)"
+    ]
+  },
+  {
+    "name": "Loch Raven",
+    "neighborhoods": [
+      "Glen Oaks",
+      "Idlewood",
+      "Loch Raven",
+      "Mt. Pleasant Park",
+      "Ramblewood",
+      "Woodbourne Heights"
+    ]
+  },
+  {
+    "name": "Madison/East End",
+    "neighborhoods": [
+      "Madison-Eastend",
+      "McElderry Park",
+      "Milton-Montford"
+    ]
+  },
+  {
+    "name": "Medfield/Hampden/Woodberry/Remington",
+    "neighborhoods": [
+      "Hampden",
+      "Hoes Heights",
+      "Jones Falls Area",
+      "Medfield",
+      "Remington",
+      "Woodberry",
+      "Wyman Park"
+    ]
+  },
+  {
+    "name": "Midtown",
+    "neighborhoods": [
+      "Bolton Hill",
+      "Charles North",
+      "Greenmount West",
+      "Mid-Town Belvedere",
+      "Mount Vernon"
+    ]
+  },
+  {
+    "name": "Midway/Coldstream",
+    "neighborhoods": [
+      "Coldstream Homestead Montebello",
+      "East Baltimore Midway"
+    ]
+  },
+  {
+    "name": "Morrell Park/Violetville",
+    "neighborhoods": [
+      "Morrell Park",
+      "Oaklee",
+      "Saint Agnes",
+      "Saint Paul",
+      "Violetville",
+      "Wilhelm Park"
+    ]
+  },
+  {
+    "name": "Mt. Washington/Coldspring",
+    "neighborhoods": [
+      "Coldspring",
+      "Mt. Washington",
+      "Sabina-Mattfeldt"
+    ]
+  },
+  {
+    "name": "North Baltimore/Guilford/Homeland",
+    "neighborhoods": [
+      "Bellona-Gittings",
+      "Blythewood",
+      "Cedarcroft",
+      "Guilford",
+      "Homeland",
+      "Kernewood",
+      "Lake Evesham",
+      "Rosebank",
+      "The Orchards",
+      "Villages Of Homeland",
+      "Tuscany-Canterbury",
+      "Loyola/Notre Dame",
+      "Radnor-Winston",
+      "York-Homeland"
+    ]
+  },
+  {
+    "name": "Northwood",
+    "neighborhoods": [
+      "Hillen",
+      "Montebello",
+      "Morgan State University",
+      "New Northwood",
+      "Original Northwood",
+      "Perring Loch",
+      "Stonewood-Pentwood-Winston"
+    ]
+  },
+  {
+    "name": "Oldtown/Middle East",
+    "neighborhoods": [
+      "Dunbar-Broadway",
+      "Gay Street",
+      "Middle East",
+      "Oldtown",
+      "Penn-Fallsway",
+      "Pleasant View Gardens",
+      "CARE"
+    ]
+  },
+  {
+    "name": "Orangeville/East Highlandtown",
+    "neighborhoods": [
+      "Greektown",
+      "Orangeville",
+      "Eastwood",
+      "Joseph Lee (now Bayview)",
+      "Kresson",
+      "Baltimore Highlands",
+      "Hopkins Bayview",
+      "Bayview",
+      "Orangeville Industrial Area",
+      "Pulaski Industrial Area"
+    ]
+  },
+  {
+    "name": "Patterson Park North & East",
+    "neighborhoods": [
+      "Baltimore-Linwood (now Patterson Park Neighborhood)",
+      "Patterson Place",
+      "Ellwood Park/Monument"
+    ]
+  },
+  {
+    "name": "Penn North/Reservoir Hill",
+    "neighborhoods": [
+      "Druid Hill Park",
+      "Parkview/Woodbrook",
+      "Penn North",
+      "Reservoir Hill"
+    ]
+  },
+  {
+    "name": "Pimlico/Arlington/Hilltop",
+    "neighborhoods": [
+      "Arlington",
+      "Central Park Heights",
+      "Cylburn",
+      "Langston Hughes",
+      "Levindale",
+      "Pimlico Good Neighbors"
+    ]
+  },
+  {
+    "name": "Poppleton/The Terraces/Hollins Market",
+    "neighborhoods": [
+      "Hollins Market",
+      "Poppleton"
+    ]
+  },
+  {
+    "name": "Sandtown-Winchester/Harlem Park",
+    "neighborhoods": [
+      "Easterwood",
+      "Harlem Park",
+      "Midtown-Edmondson",
+      "Sandtown-Winchester"
+    ]
+  },
+  {
+    "name": "South Baltimore",
+    "neighborhoods": [
+      "Locust Point",
+      "Port Covington",
+      "Locust Point Industrial Area"
+    ]
+  },
+  {
+    "name": "Southeastern",
+    "neighborhoods": [
+      "Spring Garden Industrial Area",
+      "Canton Industrial Area",
+      "Graceland Park",
+      "Holabird Industrial Park",
+      "Medford",
+      "O'Donnell Heights",
+      "Saint Helena",
+      "Dundalk Marine Terminal"
+    ]
+  },
+  {
+    "name": "Southern Park Heights",
+    "neighborhoods": [
+      "Greenspring",
+      "Lucille Park",
+      "Park Circle",
+      "Parklane",
+      "Towanda-Grantley"
+    ]
+  },
+  {
+    "name": "Southwest Baltimore",
+    "neighborhoods": [
+      "Booth-Boyd",
+      "Carrollton Ridge",
+      "Franklin Square",
+      "Millhill",
+      "Penrose/Fayette Street Outreach",
+      "Shipley Hill",
+      "Union Square",
+      "New Southwest/Mt. Clare"
+    ]
+  },
+  {
+    "name": "The Waverlies",
+    "neighborhoods": [
+      "Better Waverly",
+      "Ednor Gardens-Lakeside",
+      "Waverly"
+    ]
+  },
+  {
+    "name": "Upton/Druid Heights",
+    "neighborhoods": [
+      "Druid Heights",
+      "Heritage Crossing",
+      "Madison Park",
+      "Upton"
+    ]
+  },
+  {
+    "name": "Washington Village/Pigtown",
+    "neighborhoods": [
+      "Barre Circle",
+      "Carroll Park",
+      "Caroll-Camden Industrial Area",
+      "Washington Village/Pigtown"
+    ]
+  },
+  {
+    "name": "Westport/Mt. Winans/Lakeland",
+    "neighborhoods": [
+      "Lakeland",
+      "Mt. Winans",
+      "Westport"
+    ]
+  }
+]

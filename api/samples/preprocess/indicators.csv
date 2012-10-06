@@ -1,0 +1,90 @@
+Dataset,Variable,Description
+Housing and Community Development,resrehabXX,"Perc. of Residential Properties that Undergo Rehabilitation Investment > $5,000"
+Housing and Community Development,vacantXX,Percent of Residential Properties that are Vacant and Abandoned
+Housing and Community Development,vioXX,Percent of Residential Properties with Housing Violations
+Housing and Community Development,saleprXX,Median Sales Price
+Housing and Community Development,salesnumXX,Total Housing Units Sold
+Housing and Community Development,salesdomXX,Median Number of Days on the Market
+Housing and Community Development,owneroccXX,Percent of Housing Units that are Owner-Occupied
+Housing and Community Development,evicXX,Rate of Rental Evictions
+Housing and Community Development,foreXX,Percent of Properties Receiving Mortgage Foreclosure Filings
+Housing and Community Development,totalresXX,Total Number of Residential Properties
+Children and Family Health and Well-Being,termbirXX,Percent of Births Delivered at Term
+Children and Family Health and Well-Being,birthwtXX,Percent of Babies Born with a Satisfactory Birth Weight
+Children and Family Health and Well-Being,prenatalXX,Percent of Births where Mothers Received Prenatal Care
+Children and Family Health and Well-Being,teenbirXX,Teen Birth Rate
+Children and Family Health and Well-Being,leadtestXX,Number of Children Tested for Presence of Lead in their Blood
+Crime and Safety,domvioXX,Domestic Violence Calls for Service
+Crime and Safety,crimeXX,Part 1 Crime Rate
+Crime and Safety,violXX,Violent Crime Rate
+Crime and Safety,juvarrXX,Juvenile Arrests
+Crime and Safety,juvviolXX,Juvenile Arrests for Violent Offenses
+Crime and Safety,juvdrugXX,Juvenile Arrests for Drug Offenses
+Crime and Safety,juvpriorXX,Juvenile Arrests of Prior Offenders
+Workforce and Economic Development,numbusXX,Total Number of Businesses
+Workforce and Economic Development,succbusXX,Total Number of Businesses Four Years Old or More
+Workforce and Economic Development,totempXX,Total Number of Employees
+Workforce and Economic Development,smallbusXX,Number of Businesses with Fewer than 50 Employees
+Workforce and Economic Development,comrehabXX,"Perc. of Commercial Properties that Undergo Rehabilitation Investment > $5,000"
+Workforce and Economic Development,emplXX,Percent of the Population 16-64 that is Employed
+Workforce and Economic Development,unemplXX,Percent of the Population 16-64 that is Unemployed
+Workforce and Economic Development,nilfXX,Percent of the Population 16-64 Not in the Labor Force
+Workforce and Economic Development,unemprXX,Unemployment Rate
+Sanitation,dirtystXX,Rate of Dirty Streets and Alleys
+Sanitation,drainsXX,Rate of Clogged Storm Drains
+Sanitation,ratsXX,Rate of Rat Incidences
+Sanitation,abvXX,Rate of Abandoned Vehicles
+Urban Environment and Transportation,canopy01,Tree Canopy
+Urban Environment and Transportation,trav14mXX,Travel Time to Work (0-14 Minutes)
+Urban Environment and Transportation,trav29mXX,Travel Time to Work (15-29 Minutes)
+Urban Environment and Transportation,trav44mXX,Travel Time to Work (30-44 Minutes)
+Urban Environment and Transportation,trav45mXX,Travel Time to Work (45+ Minutes)
+Urban Environment and Transportation,nocarXX,Percent of Population Using Modes Other than a Car to get to Work
+Urban Environment and Transportation,transitXX,Percent of Population Using Public Transportation to get to Work
+Urban Environment and Transportation,othermXX,Percent of Population Using Other Modes to get to Work
+Education and Youth,eenrXXXX,Number of Students Enrolled in Elementary School
+Education and Youth,menrXXXX,Number of Students Enrolled in Middle School
+Education and Youth,henrXXXX,Number of Students Enrolled in High School
+Education and Youth,caelemXXXX,Percent of Elementary School Students that are Chronically Absent
+Education and Youth,camidXXXX,Percent of Elementary School Students that are Chronically Absent
+Education and Youth,fcaehighXXXX,Percent of Elementary School Students that are Chronically Absent
+Education and Youth,suspXXXX,Percent of Students Suspended or Expelled During School Year
+Education and Youth,dropXXXX,Percent of Students that Withdraw from School Before Completion
+Education and Youth,complXXXX,Percent of Students that Receive a Diploma or Certificate of Completion
+Education and Youth,farmsXXXX,Percent of Students Receiving Free or Reduced Price Meals
+Education and Youth,yvoteregXX,Percent of the Population Aged 18-25 Registered to Vote
+Education and Youth,yvotedXX,Percent of the Population Aged 18-25 that Voted in General Election
+Education and Youth,yempXX,Percent of the Population Aged 16-19 in School and Employed
+Neighborhood Action and Sense of Community,assocXX,Number of Neighborhood Associations and Block Clubs
+Neighborhood Action and Sense of Community,cdcsXX,Number of Community Development Corporations
+Neighborhood Action and Sense of Community,umbrellaXX,Number of Umbrella Organizations
+Neighborhood Action and Sense of Community,parkgrpsXX,Number of Park and Environmental Stewardship Groups
+Neighborhood Action and Sense of Community,gardensXX,Number of Community Gardens
+Neighborhood Action and Sense of Community,chapXX,Number of Designated Local Historical Buildings (CHAP)
+Neighborhood Action and Sense of Community,regvoteXX,Percent of the Population 18+ Registered to Vote
+Neighborhood Action and Sense of Community,votedXX,Percent of the Population 18+ that Voted in General Elections
+Census Demographics,totalpopXX,Total Population
+Census Demographics,maleXX,Total Male Population
+Census Demographics,femaleXX,Total Female Population
+Census Demographics,peraaXX,Percent of the Population that is Black/African-American
+Census Demographics,perwhiteXX,Percent of the Population that is White/Caucasian
+Census Demographics,pernaXX,Percent of the Population that is Alaskan/Native American
+Census Demographics,perasiXX,Percent of the Population that is Asian
+Census Demographics,perpacXX,Percent of the Population that is Hawaiian/Pacific Islander
+Census Demographics,per2moreXX,Percent of the Population that is Two or More Races
+Census Demographics,perotherXX,Percent of the Population that of an ÔOtherÕ Race
+Census Demographics,perhispXX,Percent of the Population that is Hispanic
+Census Demographics,age18XX,Percent of the Population Aged 0-17
+Census Demographics,age24XX,Percent of the Population Aged 18-24
+Census Demographics,age44XX,Percent of the Population Aged 25-44
+Census Demographics,age64XX,Percent of the Population Aged 45-64
+Census Demographics,age65XX,Percent of the Population Aged 65+
+Census Demographics,hhsXX,Total Number of Households
+Census Demographics,famXX,Families with Related Children Under 18
+Census Demographics,hhsizeXX,Average Household Size
+Census Demographics,hh25incXX,"Percent of Households Earning Less than $25,000 a Year"
+Census Demographics,hh40incXX,"Percent of Households Earning Between $25,000 and $39,999 a Year"
+Census Demographics,hh60incXX,"Percent of Households Earning Between $40,000 and $60,000 a Year"
+Census Demographics,hh75incXX,"Percent of Households Earning Between $60,000 and $75,000 a Year"
+Census Demographics,hhmore75XX,"Percent of Households Earning Over $75,000"
+Census Demographics,mhhiXX,Median Household Income
