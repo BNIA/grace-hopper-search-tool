@@ -34,10 +34,12 @@ body {
 
 </style>
 <body>
+	<div id="titleBar"><h2>BNIA Visualization</h2></div>
+	<div id="neighborhood"></div>
 <div id="csa-selection-map-window" style="display: inline;">
 	<p style="text-align: right; margin-right: 15px;"><a href="#" style="color: #333; font-size: 11px; font-style: italic;">close</a></p>
 
-	<img src="standardMap.large.png" usemap="#Map" width="420" border="0" height="544"> 
+	
 	<map id="csa-image-map" name="Map">
 		<area shape="poly" coords="17,53,44,80,66,95,96,72,87,54,86,53" href="#11_cross-country_cheswolde" class="inlink"> 
 		<area shape="poly" coords="87,54,96,75,103,81,100,87,102,93,114,93,122,98,125,111,128,126,127,137,151,123,154,107,146,87,153,81,146,53,107,53" href="#38_mount-washington_coldspring" class="inlink"> 
@@ -95,12 +97,14 @@ body {
 		<area shape="poly" coords="255,318,267,310,291,327,297,340,275,345,244,340,237,355,227,362,210,343,203,324,204,312,222,324,226,317" href="#48_south-baltimore" class="inlink"> 
 		<area shape="poly" coords="208,307,208,316,195,328,176,326,157,322,137,323,133,309,174,291,172,282,194,280,203,292" href="#54_washington-village" class="inlink"> 
 	</map>
-
+<img src="standardMap.large.png" usemap="#Map" width="420" border="0" height="544"> 
 </div>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="d3/d3.v2.js"></script>
 <!-- CODE TO RENDER THE DETAILED GRAPH GOES BELOW -->
-<script src="neighborhoods.js"></script>
-<script src="detail-line.js"></script>
+
+<script src="js/map.js"></script>
+<script src="js/detail-line.js"></script>
 
 
 </body>
