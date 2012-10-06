@@ -1,0 +1,17 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.sidebar-nav {
+  padding: 9px 0;
+}
+
+.no-top {
+  margin-top: 0;
+}
+
+.query-results {
+  padding: 20px;
+  border: 1px dashed #666;
+  min-height: 500px;
+}
