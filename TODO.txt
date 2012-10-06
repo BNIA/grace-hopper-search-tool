@@ -1,0 +1,26 @@
+-------------
+Web Interface:
+-------------
+* Javascript to handle multiple selection of CSAs
+* Javascript to send an API request upon each change of the web UI
+* Javascript to render visualizations and tables, given an API response
+
+----------
+API:
+----------
+This is not yet built at all. It depends on the databases and their schemas being completed.
+
+Sample incoming request:
+date:2001-2006
+csa:1,5,15,54
+indicators:domvio,salepr
+
+Response should be data points sent back in a JSON object.
+
+---------
+Database:
+---------
+???
+
+
+
