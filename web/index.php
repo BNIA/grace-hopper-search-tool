@@ -149,8 +149,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://code.jquery.com/jquery.min.js"></script>
     <script src="d3/d3.v2.js"></script>
-    <script src="js/map.js"></script>
-    <script src="js/detail-line.js"></script>
+    <script src="js/map.js"></script>    <script src="js/detail-line.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-ui-slider.min.js"></script>
     <script src="js/custom.js"></script>
